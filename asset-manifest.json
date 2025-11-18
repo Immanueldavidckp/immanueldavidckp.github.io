@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/immanueldavidckp.github.io/static/css/main.2aa2623f.css",
+    "main.js": "/immanueldavidckp.github.io/static/js/main.18d30d0d.js",
+    "index.html": "/immanueldavidckp.github.io/index.html",
+    "main.2aa2623f.css.map": "/immanueldavidckp.github.io/static/css/main.2aa2623f.css.map",
+    "main.18d30d0d.js.map": "/immanueldavidckp.github.io/static/js/main.18d30d0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aa2623f.css",
+    "static/js/main.18d30d0d.js"
+  ]
+}
